@@ -23,6 +23,6 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##Licance
+## Licance
 
 [MIT](https://choosealicense.com/licenses/mit/)
